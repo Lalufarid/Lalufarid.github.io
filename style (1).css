@@ -1,0 +1,86 @@
+.navbar{
+	background-color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 14px;
+}
+#admin{
+	color: #124f99;
+	font-family: arkhip;
+	letter-spacing: 3px;
+	font-size: 30px;
+}
+
+.col hr{
+	border-color: #124f99;
+	width: 70px;
+	border-width: 3px;
+}
+#SideBarHead{
+	background-color: #F0F0F0;
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 14px;
+	text-align: justify;
+}
+#SideBar {
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 14px;
+	text-align: justify;
+}
+.thead{
+	background-color: #F0F0F0;
+
+}
+#nav1{
+	letter-spacing: 2px;
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 14px;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 120px;
+	background-color: #124f99;
+	padding: 10px;
+
+}
+.row .col-sm-2 h5{
+	color: white;
+	font-size: 12px;
+}
+.row .col-sm-2 a {
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+	/*display: block;*/
+}
+.row .fot {
+	font-size: 12px;
+	color: white;
+}
+.col-sm-3 button {
+	font-size: 10px;
+	margin-left: 0px;
+	background-color:  #ee6e42;
+}
+
+.col-sm-1 hr {
+	border-top: 5px solid #ee6e42;
+	height: 30px;
+	width: 3px;
+}
+
+
+

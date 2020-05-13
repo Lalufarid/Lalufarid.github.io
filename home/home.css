@@ -1,0 +1,100 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;  
+}
+hr {
+	width: 200px;
+	border: 4px solid;
+}
+/*.container {
+	width: 35%;
+	margin-top: 10%;
+}*/
+.container .row {
+	margin-top: 10px;
+}
+.roaster button {
+	background-color: #ee6e42;
+	margin-left: 480px;
+	margin-top: 30px;
+}
+.roaster h4 {
+	color: #124f99;
+	font-family: arkhip;
+}
+footer {
+	margin-top: 300px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 120px;
+	background-color: #124f99;
+	padding: 10px;
+
+}
+.row .col-sm-2 h5{
+	color: white;
+	font-size: 12px;
+}
+.row .col-sm-2 a {
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+	/*display: block;*/
+}
+.row .fot {
+	font-size: 12px;
+	color: white;
+}
+.col-sm-3 button {
+	font-size: 10px;
+	margin-left: 0px;
+	background-color:  #ee6e42;
+}
+.row .garis {
+	color: white;
+}
+.row .reg {
+	margin-left: 330px;
+}
+.jumbotron {
+	background-image: url(../img/latar.jpg);
+	background-size: cover;
+	height: 550px;
+	background-position: 0 -20px;
+	text-align: center;
+}
+.jumbotron .display-4 {
+	color: black;
+	text-align: center;
+	margin-top: 100px;
+	font-family: arkhip;
+}
+.jumbotron a {
+	background-color: #ee6e42;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+}
+.tulisan {
+	margin-top: 30px;
+}
+.tulisan h4 {
+	color: #124f99;
+	font-family: arkhip;
+}
+.panduan {
+	margin-top: 50px;
+	min-height: 500px;
+}
+.panduan button {
+	background-color: #ee6e42;
+}
+.panduan h6{
+	color: #124f99;
+	font-family: arkhip;
+	padding-top: 50px;
+}
